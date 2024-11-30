@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\ArtistRequest"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\SongAddition"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\ManagerRequest"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\AlertCapstone"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\EurekaServerCapstone"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\DashboardCapstone"/>
+			<item value="C:\Users\Chandu\Downloads\userDetails"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\rms-microservice"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\withdrawal"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\userDetails"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\LoginCapstone"/>
+			<item value="C:\Users\Chandu\Downloads\Backend\Backend\AdminCapstone"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
